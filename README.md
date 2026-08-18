@@ -1,27 +1,22 @@
-# Controllership VBA Automation
+# Data Analytics Scripts
 
-🇧🇷 **Português**
+Repositório pessoal para organização de scripts e soluções desenvolvidos
+ao longo da minha experiência profissional e estudos na área de Dados, tecnolegia, finanças, e controladoria.
 
-Biblioteca de automações VBA para Excel aplicadas à Controladoria, análise de dados e relatórios gerenciais.
+## 🎯 Objetivo
 
-## Projeto atual
+Centralizar scripts, consultas e soluções reutilizáveis relacionados a:
 
-### Standardize Sheet Names
+- Tratamento e transformação de dados
+- Automação de processos
+- Análise de dados
+- Controladoria e dados financeiros
+- SQL
+- Python
+- Power Query
+- Power BI / DAX
+- Excel
 
-Automação VBA desenvolvida para padronizar o nome das abas de múltiplos arquivos Excel, renomeando a primeira aba de cada arquivo para `BD`.
-
-**Objetivo:** reduzir o trabalho manual e padronizar arquivos antes do processamento dos dados.
-
----
-
-🇺🇸 **English**
-
-VBA automation library for Excel applied to controllership, data analysis, and management reporting.
-
-## Current Project
-
-### Standardize Sheet Names
-
-VBA automation developed to standardize worksheet names across multiple Excel files by renaming the first worksheet of each file to `BD`.
-
-**Purpose:** reduce manual work and standardize files before data processing.
+O objetivo é manter uma biblioteca pessoal de soluções que possam ser
+reutilizadas, aprimoradas e documentadas ao longo da minha evolução
+profissional na área de Dados.
